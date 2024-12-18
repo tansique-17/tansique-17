@@ -54,5 +54,8 @@
 
 ---
 ### ☕ BUY ME SOME COFFEE:
-
-[![Tansique](https://camo.githubusercontent.com/9ab65d97242d6f3bc2b702d37f330f9528d679195e804afff00756a9158b8467/68747470733a2f2f617a3734333730322e766f2e6d7365636e642e6e65742f63646e2f6b6f6669332e706e673f763d30)](https://buymeacoffee.com/tansique_17)
+<div align="center">
+  <a href="https://buymeacoffee.com/tansique_17" target="_blank">
+    <img src="https://camo.githubusercontent.com/9ab65d97242d6f3bc2b702d37f330f9528d679195e804afff00756a9158b8467/68747470733a2f2f617a3734333730322e766f2e6d7365636e642e6e65742f63646e2f6b6f6669332e706e673f763d30" height="100" alt="Buy Me a Coffee" />
+  </a>
+</div>
