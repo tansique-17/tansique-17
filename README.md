@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tansique-17&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=:" height="140" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=tansique-17&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=0&order=2" height="140" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=tansique-17&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=0&order=3" height="140" alt="streak graph" />
   
 </div>
 
