@@ -30,11 +30,7 @@
 
 ## 📊 My Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tansique-17&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=:" height="140" alt="stats graph" />
-  ![tansique-17's Stats](https://github-readme-stats.vercel.app/api?username=tansique-17&theme=radical&show_icons=true&hide_border=true&count_private=true)
-  
-</div>
+![tansique-17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tansique-17&theme=radical&hide_border=true)
 
 ---
 
