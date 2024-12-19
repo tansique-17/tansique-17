@@ -36,9 +36,9 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tansique-17&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1&custom_title=My%20Github%20Stats:" height="225" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tansique-17&area=false&hide_title=false&hide_border=false&theme=github-dark&radius=200" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tansique-17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tansique-17)](https://git.io/streak-stats)  
 
 ###
 
