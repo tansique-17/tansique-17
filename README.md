@@ -27,6 +27,23 @@
 </div>
 
 ---
+### 🛠️ **Tools**
+![Nessus](https://img.shields.io/badge/Nessus-00C853?style=for-the-badge&logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-00538C?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Censys](https://img.shields.io/badge/Censys-2E76C8?style=for-the-badge&logo=censys&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-3985FF?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-1F7EBA?style=for-the-badge&logo=nmap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-FF5733?style=for-the-badge&logo=apache&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-4A4A4A?style=for-the-badge&logoColor=white)
+
+---
 
 ## 📊 My Stats:
 
@@ -62,3 +79,9 @@
     <img src="https://camo.githubusercontent.com/9ab65d97242d6f3bc2b702d37f330f9528d679195e804afff00756a9158b8467/68747470733a2f2f617a3734333730322e766f2e6d7365636e642e6e65742f63646e2f6b6f6669332e706e673f763d30" height="100" alt="Buy Me a Coffee" />
   </a>
 </div>
+
+---
+
+## Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tansique.17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tansique-dasari/)
